@@ -38,10 +38,7 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis
-            alias quo, saepe voluptatum modi at assumenda, voluptate dolorem
-            incidunt, laudantium veniam! Molestias quas expedita inventore quod
-            necessitatibus aut, perferendis qui.
+            An Information Science Engineering student from Nitte Meenakshi Institute of Technology, Bangalore. I have an interest in Web Design and Web Dev. I love to work out user-stories and bring out useful information for the design process. I love to make fun websites out of boredom and would love to make your ideas for cool websites come true.
           </p>
 
           <a href="#contact" className="btn btn-primary">
